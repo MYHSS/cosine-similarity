@@ -1,2 +1,2 @@
 # test
-项目描述
+Calculating cosine similarity in python
